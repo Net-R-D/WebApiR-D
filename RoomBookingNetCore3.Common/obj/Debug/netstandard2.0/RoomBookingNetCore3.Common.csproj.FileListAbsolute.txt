@@ -5,3 +5,4 @@ C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.Com
 C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.Common\obj\Debug\netstandard2.0\RoomBookingNetCore3.Common.AssemblyInfo.cs
 C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.Common\obj\Debug\netstandard2.0\RoomBookingNetCore3.Common.dll
 C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.Common\obj\Debug\netstandard2.0\RoomBookingNetCore3.Common.pdb
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.Common\obj\Debug\netstandard2.0\RoomBookingNetCore3.Common.csprojAssemblyReference.cache
