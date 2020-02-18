@@ -1,0 +1,11 @@
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\bin\Debug\netstandard2.0\RoomBookingNetCore3.Dal.deps.json
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\bin\Debug\netstandard2.0\RoomBookingNetCore3.Dal.dll
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\bin\Debug\netstandard2.0\RoomBookingNetCore3.Dal.pdb
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\bin\Debug\netstandard2.0\RoomBookingNetCore3.Common.dll
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\bin\Debug\netstandard2.0\RoomBookingNetCore3.Common.pdb
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\obj\Debug\netstandard2.0\RoomBookingNetCore3.Dal.csprojAssemblyReference.cache
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\obj\Debug\netstandard2.0\RoomBookingNetCore3.Dal.AssemblyInfoInputs.cache
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\obj\Debug\netstandard2.0\RoomBookingNetCore3.Dal.AssemblyInfo.cs
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\obj\Debug\netstandard2.0\RoomBookingNetCore3.Dal.csproj.CopyComplete
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\obj\Debug\netstandard2.0\RoomBookingNetCore3.Dal.dll
+C:\Users\Abdessamii\source\repos\RoomBookingNetCore3.Api\RoomBookingNetCore3.DAL\obj\Debug\netstandard2.0\RoomBookingNetCore3.Dal.pdb

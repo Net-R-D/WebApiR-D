@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RoomBookingNetCore3.Api</name>
+    </assembly>
+    <members>
+        <member name="M:RoomBooking.Api.Controllers.BookingsController.BookARoomAsync(RoomBooking.Common.Models.Booking)">
+            <summary>
+            Book a room
+            </summary>
+            <param name="booking">The new booking</param>
+            <remarks>
+                - <b>booking :</b>   
+                { <br />
+                   <b> "Room":</b>The room<br />
+                   <b> "User":</b>The user<br />
+                   <b> "StartSlot":</b>The start slot between 1 and 24<br />
+                   <b> "EndSlot":</b>The end slot between 1 and 24 and greater than the start slot<br />
+                   <b> "Date":</b>The date of the booking
+                }        
+            </remarks>
+            <returns>The created booking or a list of available rooms</returns>
+        </member>
+        <member name="M:RoomBooking.Api.Controllers.BookingsController.DeleteABookAsync(System.Int32)">
+            <summary>
+            Delete a booking
+            </summary>
+            <param name="id">The id of booking</param>
+            <returns></returns>
+        </member>
+        <member name="M:RoomBooking.Api.Controllers.RoomsController.GetRoomsAsync">
+            <summary>
+            Get all rooms
+            </summary>
+            <returns>All rooms</returns>
+        </member>
+    </members>
+</doc>
