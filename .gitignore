@@ -9,3 +9,9 @@ packages
 /RoomBookingNetCore3.Api/obj
 /RoomBookingNetCore3.Business/obj
 /RoomBookingNetCore3.Business/bin
+/RoomBookingNetCore3.Common/obj
+/RoomBookingNetCore3.Common/bin
+/RoomBookingNetCore3.Dal/obj
+/RoomBookingNetCore3.Dal/bin
+/RoomBookingNetCore3.Test/obj
+/RoomBookingNetCore3.Test/bin
