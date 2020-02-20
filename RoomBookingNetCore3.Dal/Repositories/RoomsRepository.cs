@@ -11,7 +11,15 @@ namespace RoomBooking.Dal.Repositories
     {
         public async Task<IEnumerable<Room>> GetRoomsAsync()
         {
-            return await Task.Run(() => FakeDb.Rooms);
+             return await Task.Run(() => FakeDb.Rooms);
+            //var result = FakeDb.Rooms.ToAsyncEnumerable();
+            //await foreach (var item in result)
+            //{
+            //    yield return item;
+            //}
+
+          //return  FakeDb.Rooms;
+
         }
 
         public async Task<IEnumerable<Booking>> GetBookingsByDateAndRoomAsync(DateTime date, string roomName)

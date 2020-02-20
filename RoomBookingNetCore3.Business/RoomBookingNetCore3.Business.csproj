@@ -1,12 +1,30 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\RoomBookingNetCore3.Common\RoomBookingNetCore3.Common.csproj" />
     <ProjectReference Include="..\RoomBookingNetCore3.DAL\RoomBookingNetCore3.Dal.csproj" />
   </ItemGroup>
+
+  <!--<ItemGroup>
+    <ProjectReference Include="..\RoomBookingNetCore3.Common\RoomBookingNetCore3.Common.csproj" />
+    <ProjectReference Include="..\RoomBookingNetCore3.DAL\RoomBookingNetCore3.Dal.csproj" />
+  </ItemGroup>-->
+
+  <!--<ItemGroup>
+    <PackageReference Include="System.Interactive.Async" Version="4.0.0" />
+    <PackageReference Include="System.Linq.Async" Version="4.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RoomBookingNetCore3.Common\RoomBookingNetCore3.Common.csproj" />
+    <ProjectReference Include="..\RoomBookingNetCore3.DAL\RoomBookingNetCore3.Dal.csproj" />
+  </ItemGroup>-->
 
 </Project>

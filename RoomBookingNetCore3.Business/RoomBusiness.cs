@@ -14,7 +14,7 @@ namespace RoomBooking.Business
         {
             _roomsRepository = roomsRepository;
         }
-
+        
         public async Task<IEnumerable<Room>> GetRoomsAsync()
         {
             return await _roomsRepository.GetRoomsAsync();

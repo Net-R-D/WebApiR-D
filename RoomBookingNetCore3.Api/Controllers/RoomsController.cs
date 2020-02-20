@@ -26,7 +26,7 @@ namespace RoomBooking.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> GetRoomsAsync()
         {
-            IEnumerable<Room> rooms = await _roomsBusiness.GetRoomsAsync();
+            var rooms =  _roomsBusiness.GetRoomsAsync();
             return Ok(rooms);
         }
     }

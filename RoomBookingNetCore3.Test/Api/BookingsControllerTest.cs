@@ -22,8 +22,7 @@ namespace RoomBooking.Tests.Api
 
         [Test]
         public async Task Shoud_Book_A_Room()
-        {
-           // var fixture = new Fixture();
+        {           
             var booking = new Booking
             {
                 User = fixture.Create<User>(),
